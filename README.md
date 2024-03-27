@@ -7,8 +7,8 @@ from browser:
 
 from API client, like insomnia:
 
-  http://localhost:8000/api-token-auth/
-  http://localhost:8000/restaurant/menu
-  http://localhost:8000/restaurant/menu/1
-  http://localhost:8000/restaurant/booking/tables/
-  http://localhost:8000/auth/users/me/
+  http://localhost:8000/api-token-auth/ <br />
+  http://localhost:8000/restaurant/menu <br />
+  http://localhost:8000/restaurant/menu/1 <br />
+  http://localhost:8000/restaurant/booking/tables/ <br />
+  http://localhost:8000/auth/users/me/ <br />
